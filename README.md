@@ -1,2 +1,2 @@
-# MyMusic-Player
+# My-Music-Player-Coding-Ninjas
  
