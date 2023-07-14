@@ -6,3 +6,5 @@
 3. Comments - You should add proper comments to the files, where you feel. This will improve readability of your code and will also help Teaching Assistants to understand it better. 
 
 4. Innovation - Although you are given basic template, feel free to explore more and add interesting features to your Music Player. You can also try different themes for the player(CSS Variables will help!) 
+
+Hosted link :- https://rakeshmohantarai.github.io/My-Music-Player-Coding-Ninjas.github.io/
